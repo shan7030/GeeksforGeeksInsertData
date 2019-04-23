@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "550266217655",
+    "firebase_url": "https://geeksforgeeksprogram1.firebaseio.com",
+    "project_id": "geeksforgeeksprogram1",
+    "storage_bucket": "geeksforgeeksprogram1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550266217655:android:15515149bd7969f9",
+        "android_client_info": {
+          "package_name": "com.example.geeksforgeeksinsertdata"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "550266217655-mm98631hu4hsf3m72n2gipg7ehslcbdb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3-Ef38g43_gEOlVr2rI1sKBcbsv0fj70"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "550266217655-mm98631hu4hsf3m72n2gipg7ehslcbdb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
